@@ -1,0 +1,3 @@
+The main files in this homework are search.py and searchAgents.py with the implementation of the aStarSearch function on line 141 in search.py, the CornersProblem class on line 269 in searchAgents.py, and the AStarFoodSearchAgent class on line 457.	
+
+The problem for this homework was to implement the A Star search algorithm using the previously implemented graph search from Homework 3. Then implement two different search agents and their heuristics.
